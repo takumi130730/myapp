@@ -1,8 +1,10 @@
 import './App.css';
+import List from './List';
 
 function App() {
   return (
     <div className="formContainer">
+      <h1>ログイン画面</h1>
       <form>
         <h1>ログインフォーム</h1>
         <hr />
