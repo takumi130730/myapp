@@ -16,7 +16,7 @@ function App() {
         <List />
       ) : (
         <form onSubmit={handleLogin}>
-          <h1>ログインフォーム</h1>
+          <h1>ログイン</h1>
           <hr />
           <div class="uiForm">
             <div class="formField">
